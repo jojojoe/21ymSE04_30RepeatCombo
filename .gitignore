@@ -1,0 +1,7 @@
+RCYmRepeatCombo.xcodeproj/xcuserdata/
+RCYmRepeatCombo.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+RCYmRepeatCombo.xcodeproj/project.xcworkspace/xcuserdata/
